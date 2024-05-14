@@ -1,0 +1,46 @@
+body{
+    font-family: "Arial", "Meiryo", sans-serif
+}
+html{
+    font-size: 20px;
+}
+#h1{
+    font-size: 2rem;
+    text-shadow: 2px 2px 4px gray;
+    letter-spacing: 48px;
+    text-shadow: 20px 20px 20px rgb(red, green, blue);
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.名前{
+    color: rgb(225, 192, 203);
+}
+.血液型{
+    color: rgb(225, 192, 203);
+}
+.好きな食べ方{
+    color: rgb(225, 192, 203);
+}
+.生年月日{
+    color: skyblue;
+}
+.趣味{
+    color: skyblue;
+}
+.理由{
+    color: skyblue;
+}
+.M{
+    color: skyblue;
+}
+.P{
+    color: rgb(225, 192, 203);
+}
+body {
+    text-align: center;
+}
+#parent p{
+    font-weight: bold;
+}
