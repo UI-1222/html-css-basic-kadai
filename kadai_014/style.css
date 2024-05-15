@@ -6,12 +6,11 @@ html{
 }
 #h1{
     font-size: 2rem;
-    text-shadow: 2px 2px 4px gray;
-    letter-spacing: 48px;
-    text-shadow: 20px 20px 20px rgb(red, green, blue);
+    letter-spacing: 2.4rem;
+    text-shadow: 0px 0px 8px rgba(0,0,0,0.4);
     font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: weight;
+  font-weight: bold;
   font-style: normal;
 }
 .名前{
